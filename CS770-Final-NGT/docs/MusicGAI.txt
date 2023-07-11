@@ -1,0 +1,37 @@
+Develop an AI model that can compose original music based on a given genre or artist's style. You can train a recurrent neural network (RNN) or a transformer model on a large dataset of music to generate new compositions.
+
+The size of the music dataset you need for music composition depends on several factors, including the complexity of the music you want to generate and the type of model you plan to use. While there is no fixed rule, having a larger and diverse dataset generally allows the model to learn more patterns and produce better-quality compositions.
+
+Here are some considerations when selecting a music dataset:
+
+Quantity: Aim for a dataset with a substantial number of songs or musical pieces. A few hundred songs could be a good starting point, but having thousands of songs will provide more variety and improve the model's ability to generate diverse compositions.
+
+Diversity: Include music from different genres, artists, and eras to capture a broader range of musical styles and structures. This diversity will enable your model to learn various patterns and generate compositions that reflect different influences.
+
+Quality: Ensure that the dataset consists of high-quality recordings or compositions. This is important because the model will learn from the dataset, and the output will only be as good as the input. Low-quality or poorly recorded music may negatively impact the generated compositions.
+
+Metadata: Consider including additional metadata such as genre, tempo, key signature, or artist information for each song in your dataset. This metadata can help your model learn associations between music attributes and generate compositions that align with specific styles or characteristics.
+
+Licensing and Copyright: When using a music dataset, ensure that you have the necessary rights and permissions to use the music for your project. Some datasets are freely available, while others may require licensing agreements or attribution.
+
+Remember that obtaining a large and diverse dataset can be a challenging task due to copyright restrictions and licensing issues. However, there are some openly available music datasets that you can explore, such as the Lakh MIDI Dataset, MuseScore dataset, or the Nottingham Music Database.
+
+You can start with a smaller dataset and gradually expand it as you experiment with different models and techniques. Additionally, you can augment the dataset by using techniques like data synthesis or data manipulation to generate variations of existing compositions.
+
+Lastly, consider the computational resources required to process and train models on large datasets. Training on a massive dataset may require significant computational power and time. It's essential to assess your available resources and adjust the dataset size accordingly.
+
+Overall, striking a balance between dataset size, diversity, and quality is crucial for successful music composition with AI.
+
+
+
+
+
+Lakh MIDI Dataset -- https://colinraffel.com/projects/lmd/
+Colin Raffel. "Learning-Based Methods for Comparing Sequences, with Applications to Audio-to-MIDI Alignment and Matching". PhD Thesis, 2016. http://colinraffel.com/publications/thesis.pdf
+sample code https://github.com/niko-todorov/midi-dataset
+
+MuseScore dataset -- http://millionsongdataset.com/pages/getting-dataset/
+DL http://millionsongdataset.com/pages/getting-dataset/#subset
+
+Nottingham Music Database
+
