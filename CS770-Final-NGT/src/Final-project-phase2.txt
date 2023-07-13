@@ -1,0 +1,1 @@
+Submit an ipynb file or share the link to your colab notebook for the final project. The notebook should have text paragraphs describing your dataset, task, code, model performance,and conclusion. You will present your work in 10 minutes in front of the class during the last week of the class.
