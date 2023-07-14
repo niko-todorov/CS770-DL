@@ -151,3 +151,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 *.mid
+CS770-Final-NGT/data/maestro-v2.0.0-midi.zip
+CS770-Final-NGT/data/*.midi
