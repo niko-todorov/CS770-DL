@@ -153,3 +153,4 @@ cython_debug/
 *.mid
 CS770-Final-NGT/data/maestro-v2.0.0-midi.zip
 CS770-Final-NGT/data/maestro-v2.0.0/*.midi
+*.midi
