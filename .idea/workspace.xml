@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4422cbd-3ebb-4563-bd99-017dc962c7cb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/CS770.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CS770.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/src/music_generation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CS770-Final-NGT/src/music_generation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TF/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/TF/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="b4422cbd-3ebb-4563-bd99-017dc962c7cb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +25,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
