@@ -152,4 +152,4 @@ cython_debug/
 #.idea/
 *.mid
 CS770-Final-NGT/data/maestro-v2.0.0-midi.zip
-CS770-Final-NGT/data/*.midi
+CS770-Final-NGT/data/maestro-v2.0.0/*.midi
