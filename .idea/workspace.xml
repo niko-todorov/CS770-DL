@@ -4,7 +4,70 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4422cbd-3ebb-4563-bd99-017dc962c7cb" name="Changes" comment="" />
+    <list default="true" id="b4422cbd-3ebb-4563-bd99-017dc962c7cb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/Tutorial.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/data/clean_midi/Queen/temp2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/data/clean_midi/err.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/data/clean_midi/out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/experiment_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/experiments/combined/match_msd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/experiments/dhs/match_msd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/experiments/dhs/parameter_search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/experiments/dhs/precompute.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/experiments/dhs_piano/match_msd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/experiments/dhs_piano/parameter_search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/experiments/dhs_piano/precompute.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/experiments/pse/match_msd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/experiments/pse/parameter_search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/experiments/pse/precompute.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/experiments/stats/match_msd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/experiments/stats/precompute.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/experiments/tdftm/match_msd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/experiments/tdftm/precompute.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/experiments/tpaa/match_msd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/experiments/tpaa/precompute.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/feature_extraction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/file_lists/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/file_lists/cal10k.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/file_lists/cal500.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/file_lists/clean_midi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/file_lists/uspop2002.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/scripts/align_text_matches.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/scripts/assemble_aligned_matches.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/scripts/create_msd_cqts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/scripts/create_training_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/scripts/create_whoosh_indices.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/scripts/extract_ground_truth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/scripts/match.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/scripts/split_training_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/scripts/text_match_datasets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/midi-dataset/whoosh_search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/pretty-midi/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/pretty-midi/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/pretty-midi/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/pretty-midi/Tutorial.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/pretty-midi/docs/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/pretty-midi/docs/conf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/pretty-midi/docs/index.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/pretty-midi/examples/align_midi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/pretty-midi/examples/chiptunes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/pretty-midi/examples/chord_catalog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/pretty-midi/examples/reverse_pianoroll.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/pretty-midi/pretty_midi/TimGM6mb.sf2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/pretty-midi/pretty_midi/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/pretty-midi/pretty_midi/constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/pretty-midi/pretty_midi/containers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/pretty-midi/pretty_midi/fluidsynth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/pretty-midi/pretty_midi/instrument.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/pretty-midi/pretty_midi/pretty_midi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/pretty-midi/pretty_midi/utilities.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/pretty-midi/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/pretty-midi/tests/test_pretty_midi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/data/pretty-midi/tests/test_utilities.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS770-Final-NGT/src/CS770-DL-NGT-FinalProjectPhaseII.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/CS770-Final-NGT/src/CS770-DL-NGT-FinalProjectPhaseII.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,18 +85,18 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Python310/Lib/site-packages/requests/__init__.py&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/GitHub/CS770-DL/CS770-Final-NGT/src",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="CS770" />
