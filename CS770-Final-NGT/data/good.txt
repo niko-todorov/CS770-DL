@@ -1,0 +1,365 @@
+     0, clean_midi\Alabama\Then Again.mid
+     1, clean_midi\Allen Toussaint\Whirlaway.mid
+     2, clean_midi\Amos, Tori\Crucify.mid
+     3, clean_midi\Andy Williams\MacArthur Park.mid
+     4, clean_midi\Bach Johann Sebastian\2-Part Invention No. 1 in C major, BWV 772.1.mid
+     5, clean_midi\Bach Johann Sebastian\2-Part Invention No. 1 in C major, BWV 772.2.mid
+     6, clean_midi\Bach Johann Sebastian\2-Part Invention No. 1 in C major, BWV 772.3.mid
+     7, clean_midi\Bach Johann Sebastian\2-Part Invention No. 1 in C major, BWV 772.mid
+     8, clean_midi\Bach Johann Sebastian\2-Part Invention No. 4 in D minor, BWV 775.mid
+     9, clean_midi\Bach Johann Sebastian\2-Part Invention No. 8 in F major, BWV 779.mid
+    10, clean_midi\Bach Johann Sebastian\Air On The G String.mid
+    11, clean_midi\Bach Johann Sebastian\Aria From the Goldberg Variations, BWV 988.mid
+    12, clean_midi\Bach Johann Sebastian\Bach.mid
+    13, clean_midi\Bach Johann Sebastian\Franzosische Suite Nr. 5, BWV 816, Gigue.1.mid
+    14, clean_midi\Bach Johann Sebastian\Fugue 14 F# Minor.mid
+    15, clean_midi\Bach Johann Sebastian\Fugue 16 G Minor.mid
+    16, clean_midi\Bach Johann Sebastian\Fugue 18 G# Minor.mid
+    17, clean_midi\Bach Johann Sebastian\Fugue 22 B Flat Minor.mid
+    18, clean_midi\Bach Johann Sebastian\Fugue 24 B Minor.mid
+    19, clean_midi\Bach Johann Sebastian\Fugue.mid
+    20, clean_midi\Bach Johann Sebastian\Italian Concerto - Presto.mid
+    21, clean_midi\Bach Johann Sebastian\Italian Concerto BWV 971_ Andante.mid
+    22, clean_midi\Bach Johann Sebastian\Italian Concerto_ Allegro.mid
+    23, clean_midi\Bach Johann Sebastian\Jesus bleibet meine Freude (Herz und Mund und Tat und Leben BWV. 147).mid
+    24, clean_midi\Bach Johann Sebastian\Lukas Passion, BWV 246_ 96. Chorale _Derselbe mein Herr Jesu Christ_.mid
+    25, clean_midi\Bach Johann Sebastian\March in D major (C.P.E. Bach).mid
+    26, clean_midi\Bach Johann Sebastian\Musette BWV Anh.126.mid
+    27, clean_midi\Bach Johann Sebastian\Partita No. 1 in B-flat major, BWV 825_ VI. Gigue.mid
+    28, clean_midi\Bach Johann Sebastian\Prelude in C Major.2.mid
+    29, clean_midi\Bach Johann Sebastian\Prelude in C Major.3.mid
+    30, clean_midi\Bach Johann Sebastian\Prelude in G.mid
+    31, clean_midi\Bach Johann Sebastian\Suite pour orchestre No. 2 en Si mineur, BWV 1067_ II. Rondo.mid
+    32, clean_midi\Bach Johann Sebastian\The Well-Tempered Clavier - Prelude and Fugue nr 1, C Major, BWV 846.mid
+    33, clean_midi\Bach Johann Sebastian\Toccata and Fugue in D minor, BWV 565.2.mid
+    34, clean_midi\Bach Johann Sebastian\Toccata.mid
+    35, clean_midi\Bach Johann Sebastian\TwoPart Invention in A minor.mid
+    36, clean_midi\Backstreet Boys\I Need You Tonight.mid
+    37, clean_midi\Bela Bartok\10 Easy Pieces_ X. Bear Dance.mid
+    38, clean_midi\Bela Bartok\44 Duos, No. 14_ Cushion Dance.mid
+    39, clean_midi\Bela Bartok\Kezdok zongoramuzikaja (First Term at the Piano), BB 66_ No. 16_ Paraszttanc (Peasant's Dance)_ Allegro moderato.mid
+    40, clean_midi\Bela Bartok\Piano Piece for Children No. 18.mid
+    41, clean_midi\Bela Bartok\Piano Piece for Children No. 20.mid
+    42, clean_midi\Bela Bartok\Roumanian Folk Dance, Sz. 56 No. 6_ Fast Dance.mid
+    43, clean_midi\Bilk\Fond Memories.mid
+    44, clean_midi\Bilk\What Are You Doing the Rest of Your Life.mid
+    45, clean_midi\Billy Joel\Leningrad.2.mid
+    46, clean_midi\Billy Joel\Leningrad.mid
+    47, clean_midi\Billy Joel\Piano Man.2.mid
+    48, clean_midi\Billy Joel\Piano Man.4.mid
+    49, clean_midi\Billy Joel\Piano Man.6.mid
+    50, clean_midi\Bizet Georges\Carmen Highlights - Habanera.mid
+    51, clean_midi\Black Rose\Honestly Love You.mid
+    52, clean_midi\Carole King\So Far Away.mid
+    53, clean_midi\Celine Dion\Because You Loved Me.5.mid
+    54, clean_midi\Celine Dion\Because You Loved Me.7.mid
+    55, clean_midi\Charlie Rich\Behind Closed Doors.mid
+    56, clean_midi\Chick Corea\500 Miles High.mid
+    57, clean_midi\Chick Corea\Eternal Child.mid
+    58, clean_midi\Chick Corea\La Fiesta.mid
+    59, clean_midi\Chick Corea\Mirror, Mirror.mid
+    60, clean_midi\Chick Corea\No Mystery.mid
+    61, clean_midi\Chick Corea\Sometime Ago.mid
+    62, clean_midi\Chick Corea\Spain.mid
+    63, clean_midi\Chick Corea\Sundance (Chick Corea).1.mid
+    64, clean_midi\Chopin Frederic\Ballade Nr.1 op.23 g-moll.mid
+    65, clean_midi\Chopin Frederic\Barcarolle Opus 60.mid
+    66, clean_midi\Chopin Frederic\Berceuse.mid
+    67, clean_midi\Chopin Frederic\Etude c moll opus 10 Nr.12.1.mid
+    68, clean_midi\Chopin Frederic\Etude c moll opus 10 Nr.12.mid
+    69, clean_midi\Chopin Frederic\Etude in E major, Op. 10 No. 3_ Lento, ma non troppo.1.mid
+    70, clean_midi\Chopin Frederic\Etude in E major, Op. 10 No. 3_ Lento, ma non troppo.2.mid
+    71, clean_midi\Chopin Frederic\Etude in E major, Op. 10 No. 3_ Lento, ma non troppo.mid
+    72, clean_midi\Chopin Frederic\Etude No. 24 in C minor _Ocean_, Op. 25 No. 12.mid
+    73, clean_midi\Chopin Frederic\Fantaisie impromptu.mid
+    74, clean_midi\Chopin Frederic\Heroic Polonaise No. 6 in A flat, Opus 53.mid
+    75, clean_midi\Chopin Frederic\Mazurka D-Dur, Op. 33 Nr. 2.mid
+    76, clean_midi\Chopin Frederic\Mazurka Nr. 51 f -moll op. 68 Nr. 4.mid
+    77, clean_midi\Chopin Frederic\Nocturne In C Minor, Op. 48 Nr. 1.mid
+    78, clean_midi\Chopin Frederic\Nocturne in F minor, Op. 55 No. 1.mid
+    79, clean_midi\Chopin Frederic\Nocturne in F-sharp major, Op. 15 No. 2.mid
+    80, clean_midi\Chopin Frederic\Nocturne In G Minor, Op. 15 Nr. 3.mid
+    81, clean_midi\Chopin Frederic\Nocturne In G Minor, Op. 37 Nr. 1.mid
+    82, clean_midi\Chopin Frederic\Nocturne No. 1 in E minor, Op. 72_ Andante.mid
+    83, clean_midi\Chopin Frederic\Nocturne No. 18 in E major, Op. 62 No. 2.mid
+    84, clean_midi\Chopin Frederic\Piano Sonata No. 3 B-flat Minor Op. 58 1st Movement.mid
+    85, clean_midi\Chopin Frederic\Polonaise A-dur opus 40 Nr.1.mid
+    86, clean_midi\Chopin Frederic\Prelude in E minor, op. 28 nr. 4 _Suffocation_ (arr. Franz Liszt) (organ_ Gerrie Meijers).mid
+    87, clean_midi\Chopin Frederic\Waltz In A Minor, Op. 34 Nr. 2.mid
+    88, clean_midi\Chopin Frederic\Waltz In D Flat Major, Op. 70 Nr. 3.mid
+    89, clean_midi\Chopin Frederic\Waltz in E Minor Opus posthumous.mid
+    90, clean_midi\Christoph Willibald Gluck\Ballet des ombres heureuses (Orfeo ed Euridice).mid
+    91, clean_midi\Christoph Willibald Gluck\Paris and Helena, Gavotte.mid
+    92, clean_midi\Claude Debussy\Arabesque Nr. 1 in E-dur L66 1 (feat. harp_ Paola Larini).mid
+    93, clean_midi\Claude Debussy\Children's Corner - I. Doctor Gradus ad Parnassum.mid
+    94, clean_midi\Claude Debussy\Children's Corner - IV. The Snow is Dancing.mid
+    95, clean_midi\Claude Debussy\Golliwog's Cake Walk.mid
+    96, clean_midi\Claude Debussy\II. Pour un tombeau sans nom.mid
+    97, clean_midi\Claude Debussy\III. Pour que la nuit soit propice.mid
+    98, clean_midi\Claude Debussy\Images, Serie 1  II. Hommage a Rameau (Lent e grave).mid
+    99, clean_midi\Claude Debussy\Jimbo's Lullaby.mid
+   100, clean_midi\Claude Debussy\La Cathedrale engloutie.mid
+   101, clean_midi\Claude Debussy\La fille aux cheveux de lin.mid
+   102, clean_midi\Claude Debussy\La Plus Que Lente - Valse.mid
+   103, clean_midi\Claude Debussy\La Puerta del Vino.mid
+   104, clean_midi\Claude Debussy\No.24 Feux d'artifice (Fireworks).mid
+   105, clean_midi\Claude Debussy\Petit Suite_ Menuet.mid
+   106, clean_midi\Claude Debussy\Prelude a l'apres-midi d'un faune.mid
+   107, clean_midi\Claude Debussy\Reflets dans leau.mid
+   108, clean_midi\Claude Debussy\Reverie.mid
+   109, clean_midi\Claude Debussy\Serenade for the Doll.mid
+   110, clean_midi\Claude Debussy\Six Epigraphes Antiques - Pour La Danseuse Aux Crotales.mid
+   111, clean_midi\Claude Debussy\Six epigraphes antiques_ I. Pour invoquer Pan, dieu du vent d'ete.mid
+   112, clean_midi\Claude Debussy\The little negro (Le petit Negre).mid
+   113, clean_midi\Claude Debussy\The Little Shepherd.mid
+   114, clean_midi\Claude Debussy\V. Pour l'Egyptienne.mid
+   115, clean_midi\Claude Debussy\VI. Pour remercier la pluie au matin.mid
+   116, clean_midi\Claude Debussy\_General Lavine_ - excentric.mid
+   117, clean_midi\Clementi\Sonata for piano, flute & cello in D major, Op. 22 No. 1_ I. Spiritoso.mid
+   118, clean_midi\Clementi\Sonata in F minor, Op. 14 No. 3_ III. Presto.mid
+   119, clean_midi\Clementi\Sonata per piano in Fa maggiore, Op. 26_ I. Allegro.mid
+   120, clean_midi\Clementi\Sonata per piano in Re maggiore _La Chasse_, Op. 16_ I. Allegro.mid
+   121, clean_midi\Clementi\Sonata per piano in Re maggiore, Op. 10 No. 2_ II. Presto.mid
+   122, clean_midi\Dan Fogelberg\Longer.mid
+   123, clean_midi\Darin Bobby\If I Were a Carpenter.mid
+   124, clean_midi\Debbie Gibson\One Hand, One Heart.mid
+   125, clean_midi\Delibes Leo\Coppelia, Ou La Fille Aux Yeux D'Email, Ballet_ Valse.mid
+   126, clean_midi\Delibes Leo\Sylvia_ Pizzicato.mid
+   127, clean_midi\Dick Hyman\Oh, Lady Be Good!.mid
+   128, clean_midi\Dick Hyman\Where or When.mid
+   129, clean_midi\Dorsey\Boogie Woogie.mid
+   130, clean_midi\Dvorak\Serenade op. 22 - 1 Waltz.mid
+   131, clean_midi\Dvorak\Waltz in D Minor Op.54 Nr.7.1.mid
+   132, clean_midi\Dvorak\Waltz in D Minor Op.54 Nr.7.mid
+   133, clean_midi\Eagles\Witchy Woman.4.mid
+   134, clean_midi\Edvard Grieg\'Arietta' op. 12, Nr. 1 aus Lyrische Stucke.mid
+   135, clean_midi\Edvard Grieg\Elfin Dance, Op.12 No.4.mid
+   136, clean_midi\Edvard Grieg\I Love Thee.mid
+   137, clean_midi\Edvard Grieg\Lyrische Stucke I, Op. 12 Nr. 1_ Arietta.mid
+   138, clean_midi\Edvard Grieg\Lyrische Stucke III, Op. 43 Nr. 1_ Schmetterling.mid
+   139, clean_midi\Edvard Grieg\Peer Gynt Suite No. 1, Op. 46_ I. Morning Mood.mid
+   140, clean_midi\Elton John\Sixty Years On.mid
+   141, clean_midi\Elvis Costello\Goon Squad.mid
+   142, clean_midi\Emmanuel Chabrier\Bourree fantasque.mid
+   143, clean_midi\Emmanuel Chabrier\Suite pastorale _ IV. Scherzo-valse.mid
+   144, clean_midi\Enigma\The Voice of Enigma.mid
+   145, clean_midi\Enya\From Where I Am.mid
+   146, clean_midi\Enya\Oriel Window.1.mid
+   147, clean_midi\Enya\Oriel Window.mid
+   148, clean_midi\Enya\Out of the Blue.1.mid
+   149, clean_midi\Enya\Out of the Blue.mid
+   150, clean_midi\Eubie Blake\Charleston Rag.mid
+   151, clean_midi\Eubie Blake\Chevy Chase.mid
+   152, clean_midi\Evans Bill\All the Things You Are.mid
+   153, clean_midi\Evans Bill\Danny Boy.mid
+   154, clean_midi\Evans Bill\The More I See You.mid
+   155, clean_midi\Evans Bill\When I Fall in Love.mid
+   156, clean_midi\Evans Bill\You Go to My Head.mid
+   157, clean_midi\Evans Bill\Young and Foolish.mid
+   158, clean_midi\Falla\El amor brujo (Love, the Magician)_ IV. El aparecido (The Apparition).mid
+   159, clean_midi\Falla\La Vida Breve (excerpt).mid
+   160, clean_midi\FAURE Gabriel\Clair de lune Op. 46 Nr. 2.mid
+   161, clean_midi\FAURE Gabriel\Romance Without Words in A-flat minor, Op. 17 No. 3.mid
+   162, clean_midi\FAURE Gabriel\Spanish Dance from Dolly Suite (orch. Rabaud).mid
+   163, clean_midi\Floyd Cramer\Last Date.mid
+   164, clean_midi\Floyd Cramer\Root Beer Rag.1.mid
+   165, clean_midi\Fugees\Killing Me Softly.2.mid
+   166, clean_midi\George Benson\On Broadway.2.mid
+   167, clean_midi\George M. Cohan\Yankee Doodle Dandy   Give My Regards to Broadway.mid
+   168, clean_midi\Gershwin\Rialto Ripples Rag.mid
+   169, clean_midi\Glenn Frey\You Belong To The City.mid
+   170, clean_midi\Gounod Charles\Ave Maria.1.mid
+   171, clean_midi\Gounod Charles\Marche funebre d'une marionnette.mid
+   172, clean_midi\Gounod Charles\Waltz from Faust.mid
+   173, clean_midi\Granados Enrique\El Pelele.mid
+   174, clean_midi\Hank Jones\'Round Midnight.mid
+   175, clean_midi\Hank Jones\Bluesette.mid
+   176, clean_midi\Hank Jones\In a Sentimental Mood.mid
+   177, clean_midi\Hank Jones\Medley (You Go to My Head).mid
+   178, clean_midi\Hank Jones\Oh Look at Me Now.mid
+   179, clean_midi\Hank Jones\Satin Doll.mid
+   180, clean_midi\Hank Jones\They Can't Take That Away From Me.mid
+   181, clean_midi\Hank Jones\You Took Advantage of Me.mid
+   182, clean_midi\Harry Chapin\Cat's In The Cradle.1.mid
+   183, clean_midi\Haydn\Keyboard Sonata in G major, Hob. XVI_8_ IV. Allegro.mid
+   184, clean_midi\Haydn\Sonata for Piano in C major, Hob. XVI_10_ I. Moderato.mid
+   185, clean_midi\Haydn\Sonate Hob XVI 6 _ Allegro.mid
+   186, clean_midi\Henry Butler\Baby, Let Me Hold Your Hand.mid
+   187, clean_midi\Henry Butler\Basin Street Blues.mid
+   188, clean_midi\Henry Butler\Blues After Midnight.mid
+   189, clean_midi\Henry Butler\Butler's Boogie.mid
+   190, clean_midi\Henry Butler\Down by the Riverside.mid
+   191, clean_midi\Henry Butler\Dr. Diddley.mid
+   192, clean_midi\Henry Butler\Dr. James.mid
+   193, clean_midi\Henry Butler\Orleans Inspiration.mid
+   194, clean_midi\Henry Butler\San Francisco Blues.mid
+   195, clean_midi\Herbie Hancock\My Funny Valentine.mid
+   196, clean_midi\Holiday Billie\I Only Have Eyes For You.mid
+   197, clean_midi\Hughie Cannon\Bill Bailey.mid
+   198, clean_midi\Jackson 5\Dancing Machine.mid
+   199, clean_midi\Jackson Michael\Heal The World.2.mid
+   200, clean_midi\Jewel\Foolish Games.mid
+   201, clean_midi\Joe Satriani\Day at the Beach.mid
+   202, clean_midi\Johannes Brahms\Hungarian Dance Nr 1 In G Minor.1.mid
+   203, clean_midi\Johannes Brahms\Liebeslieder Waltz, Op. 52, No. 6.mid
+   204, clean_midi\John Denver\Back Home Again.mid
+   205, clean_midi\John Elton\Blue Eyes.2.mid
+   206, clean_midi\John Elton\Blue Eyes.4.mid
+   207, clean_midi\John Field\Nocturne for piano No. 8 (9) in E minor, H46b.mid
+   208, clean_midi\John Field\Nocturne in F_ No.6 H40.mid
+   209, clean_midi\Johnny Rivers\Rainy Night in Georgia.mid
+   210, clean_midi\Jolson. Al\Baby Face.mid
+   211, clean_midi\Jon Cleary\Go Ahead Baby.mid
+   212, clean_midi\Joseph Lamb\American Beauty Rag (Lamb).mid
+   213, clean_midi\Joseph Lamb\Ragtime Nightingale (Lamb).mid
+   214, clean_midi\Joseph Lamb\Sensation Rag.mid
+   215, clean_midi\Judy Collins\Amazing Grace.1.mid
+   216, clean_midi\King Ben E\Stand By Me.mid
+   217, clean_midi\Laine Cleo\I've Got a Crush on You.mid
+   218, clean_midi\Led Zeppelin\Stairway To Heaven.7.mid
+   219, clean_midi\Lena Horne\Watch What Happens.mid
+   220, clean_midi\Lennon John\Imagine.2.mid
+   221, clean_midi\Leo Friedman\Let Me Call You Sweetheart.mid
+   222, clean_midi\Ludwig van Beethoven\5th Symphony.mid
+   223, clean_midi\Ludwig van Beethoven\Menuet in G.mid
+   224, clean_midi\Ludwig van Beethoven\Ode to Joy from the 9th Symphony.mid
+   225, clean_midi\Ludwig van Beethoven\Piano Sonata No. 14 in C-sharp minor, Op. 27 No. 2 _Moonlight__ I. Adagio sostenuto.mid
+   226, clean_midi\Ludwig van Beethoven\Rondo a capriccio, Op. 129.mid
+   227, clean_midi\Mac Davis\Baby Don't Get Hooked on Me.mid
+   228, clean_midi\Merle Travis\Cannonball Rag.mid
+   229, clean_midi\Metallica\(Anesthesia)-Pulling Teeth.1.mid
+   230, clean_midi\Metallica\Die, Die My Darling.mid
+   231, clean_midi\Michael George\Careless Whisper.1.mid
+   232, clean_midi\Miller\Serenade in Blue.mid
+   233, clean_midi\Mily Balakirev\Islamey.mid
+   234, clean_midi\Morton Jelly Roll\King Porter Stomp_ (Piano Instrumental).mid
+   235, clean_midi\Morton Jelly Roll\Maple Leaf Rag.mid
+   236, clean_midi\Morton Jelly Roll\The Pearls.mid
+   237, clean_midi\Nat King Cole\Love Letters.mid
+   238, clean_midi\Nat King Cole\Mona Lisa.2.mid
+   239, clean_midi\Nat King Cole\Nature Boy.mid
+   240, clean_midi\Nat King Cole\Ramblin' Rose.mid
+   241, clean_midi\Nat King Cole\Route 66.mid
+   242, clean_midi\Nat King Cole\Sweet Georgia Brown.mid
+   243, clean_midi\Nat King Cole\Too Young.mid
+   244, clean_midi\Nat King Cole\When Sunny Get's Blue.mid
+   245, clean_midi\New Age\Spring Waltz.mid
+   246, clean_midi\Nine Inch Nails\Pinion.mid
+   247, clean_midi\Oscar Peterson\East of the Sun.mid
+   248, clean_midi\Oscar Peterson\I Only Have Eyes for You.mid
+   249, clean_midi\Oscar Peterson\I've Got a Crush on You.mid
+   250, clean_midi\Oscar Peterson\John Brown's Body.mid
+   251, clean_midi\Oscar Peterson\This Can't Be Love.mid
+   252, clean_midi\Oscar Peterson\Young and Foolish.mid
+   253, clean_midi\Parton Dolly\Rockin' Years.mid
+   254, clean_midi\Patsy Cline\Crazy.mid
+   255, clean_midi\Patsy Cline\Just a Closer Walk With Thee.mid
+   256, clean_midi\Paul Simon\The Sound of Silence.mid
+   257, clean_midi\Percy Grainger\Danny Boy.mid
+   258, clean_midi\Percy Grainger\Shepherd's Hey!.mid
+   259, clean_midi\Phish\Bliss.mid
+   260, clean_midi\Pink Floyd\Another Brick in the Wall, Part 2.10.mid
+   261, clean_midi\Pink Floyd\Bike.1.mid
+   262, clean_midi\Pink Floyd\Sheep.mid
+   263, clean_midi\Pink Floyd\The Final Cut.mid
+   264, clean_midi\Pink Floyd\Us and Them.1.mid
+   265, clean_midi\Powell Bud\Sweet Georgia Brown.mid
+   266, clean_midi\Professor Longhair\Big Chief.1.mid
+   267, clean_midi\Professor Longhair\Big Chief.mid
+   268, clean_midi\Professor Longhair\Mardi Grass in New Orleans.mid
+   269, clean_midi\Queen\Procession.mid
+   270, clean_midi\Ray Charles\Georgia.mid
+   271, clean_midi\Roberta Flack\Killing Me Softly.mid
+   272, clean_midi\Rogers Kenny\She Believes In Me.mid
+   273, clean_midi\Scott James\Grace and Beauty.1.mid
+   274, clean_midi\Scott James\Sunburst Rag.mid
+   275, clean_midi\Scott Joplin\A Breeze From Alabama.mid
+   276, clean_midi\Scott Joplin\Binks' Waltz.mid
+   277, clean_midi\Scott Joplin\Country Club.mid
+   278, clean_midi\Scott Joplin\Dill Pickles Rag (Chris Chapman).mid
+   279, clean_midi\Scott Joplin\Elite Syncopations.mid
+   280, clean_midi\Scott Joplin\Felicity Rag.mid
+   281, clean_midi\Scott Joplin\Fig Leaf Rag.mid
+   282, clean_midi\Scott Joplin\Gladiolus Rag.mid
+   283, clean_midi\Scott Joplin\Heliotrope Bouquet.mid
+   284, clean_midi\Scott Joplin\Kismet Rag.mid
+   285, clean_midi\Scott Joplin\Lily Queen.mid
+   286, clean_midi\Scott Joplin\Magnetic Rag.mid
+   287, clean_midi\Scott Joplin\Maple Leaf Rag.mid
+   288, clean_midi\Scott Joplin\Original Rag.mid
+   289, clean_midi\Scott Joplin\Palm Leaf Rag.mid
+   290, clean_midi\Scott Joplin\Paragon Rag.1.mid
+   291, clean_midi\Scott Joplin\Peacherine Rag.mid
+   292, clean_midi\Scott Joplin\Pine Apple Rag.mid
+   293, clean_midi\Scott Joplin\Pleasant Moments.mid
+   294, clean_midi\Scott Joplin\Reflection Rag.mid
+   295, clean_midi\Scott Joplin\Rose Leaf Rag.mid
+   296, clean_midi\Scott Joplin\Scott Joplin's New Rag.mid
+   297, clean_midi\Scott Joplin\Searchlight Rag.mid
+   298, clean_midi\Scott Joplin\Something Doing.mid
+   299, clean_midi\Scott Joplin\Stoptime Rag.mid
+   300, clean_midi\Scott Joplin\Sugar Cane.mid
+   301, clean_midi\Scott Joplin\Sunflower Slow Drag.mid
+   302, clean_midi\Scott Joplin\The Cascades.mid
+   303, clean_midi\Scott Joplin\The Chrysanthemum.mid
+   304, clean_midi\Scott Joplin\The Easy Winners.mid
+   305, clean_midi\Scott Joplin\The Entertainer.mid
+   306, clean_midi\Scott Joplin\The Favorite.mid
+   307, clean_midi\Scott Joplin\The Nonpareil.mid
+   308, clean_midi\Scott Joplin\The Ragtime Dance.mid
+   309, clean_midi\Scott Joplin\The Strenuous Life (Rag-Time Two-Step).mid
+   310, clean_midi\Scott Joplin\The Sycamore.mid
+   311, clean_midi\Scott Joplin\Wall Street Rag.mid
+   312, clean_midi\Scott Joplin\Weeping Willow Rag.mid
+   313, clean_midi\Shearing George\Beautiful Love.mid
+   314, clean_midi\Shearing George\Happy Days Are Here Again.mid
+   315, clean_midi\Shearing George\I Can't Get Started.mid
+   316, clean_midi\Shearing George\I'll Remember April.mid
+   317, clean_midi\Shearing George\If I Should Lose You.1.mid
+   318, clean_midi\Shearing George\If I Should Lose You.mid
+   319, clean_midi\Shearing George\Londonderry Air.mid
+   320, clean_midi\Shearing George\Lullaby of Birdland.mid
+   321, clean_midi\Shearing George\Roses of Picardy.mid
+   322, clean_midi\Shearing George\September in the Rain.mid
+   323, clean_midi\Shearing George\Someone to Watch Over Me.mid
+   324, clean_midi\Shearing George\The Nearness of You.mid
+   325, clean_midi\Shearing George\Too Close for Comfort.mid
+   326, clean_midi\Soundgarden\One Minute of Silence.mid
+   327, clean_midi\Steve Winwood\Higher Love.1.mid
+   328, clean_midi\Sublime\Poolshark.mid
+   329, clean_midi\Tatum Art\Stardust.mid
+   330, clean_midi\Tatum Art\The Very Thought of You.mid
+   331, clean_midi\The Beatles\Eight Days A Week.4.mid
+   332, clean_midi\The Beatles\Hey Jude.mid
+   333, clean_midi\The Beatles\I'm Gonna Sit Right Down and Cry (Over You).mid
+   334, clean_midi\The Beatles\In My Life.1.mid
+   335, clean_midi\The Beatles\In My Life.5.mid
+   336, clean_midi\The Beatles\Sgt. Pepper Inner Groove.mid
+   337, clean_midi\The Five Satins\In the Still of the Nite.mid
+   338, clean_midi\Thelonious Monk\Nice Work If You Can Get It.mid
+   339, clean_midi\Tom McDermott\Heavy Henry.mid
+   340, clean_midi\Tom Turpin\St. Louis Rag.mid
+   341, clean_midi\Tommy Flanagan\I Can't Get Started.mid
+   342, clean_midi\U2\The Electric Co..1.mid
+   343, clean_midi\Van Halen\316.mid
+   344, clean_midi\Van Morrison\Someone Like You.mid
+   345, clean_midi\Waller Fats\Tea for Two.mid
+   346, clean_midi\Walter Donaldson\My Blue Heaven.mid
+   347, clean_midi\Warren\The More I See You.mid
+   348, clean_midi\Whitney Houston\All at Once.mid
+   349, clean_midi\Whitney Houston\Didn't We Almost Have It All.1.mid
+   350, clean_midi\Whitney Houston\Greatest Love of All.mid
+   351, clean_midi\Whitney Houston\How Will I Know.1.mid
+   352, clean_midi\Whitney Houston\I Know Him So Well.mid
+   353, clean_midi\Whitney Houston\Saving All My Love For You.6.mid
+   354, clean_midi\Whitney Houston\Where Do Broken Hearts Go.2.mid
+   355, clean_midi\Whitney Houston\You Give Good Love.mid
+   356, clean_midi\Whitney Houston\You're Still My Man.mid
+   357, clean_midi\Wilson Teddy\As Time Goes By.mid
+   358, clean_midi\Wilson Teddy\Body and Soul.mid
+   359, clean_midi\Wilson Teddy\Cheek to Cheek.mid
+   360, clean_midi\Wilson Teddy\I Can't Get Started.mid
+   361, clean_midi\Wilson Teddy\Lullaby of Birdland.mid
+   362, clean_midi\Wing\Baby Face.mid
+   363, clean_midi\Yanni\Swept Away.1.mid
+Number of 1-instrument MIDI files: 363
